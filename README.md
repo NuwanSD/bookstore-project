@@ -1,3 +1,5 @@
-Click here to visit the deploed site
+Click here to visit the deployed site
 
 https://bookstore-mernstack.netlify.app/
+
+I created this book store simple web app using mern stack
